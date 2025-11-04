@@ -8,5 +8,7 @@ public class HelloWorldTest {
     public void testGreet() {
         assertEquals("Hello, Alice!", HelloWorld.greet("Alice"));
         assertEquals("Hello, World!", HelloWorld.greet(""));
+
+        //This is another test
     }
 }
